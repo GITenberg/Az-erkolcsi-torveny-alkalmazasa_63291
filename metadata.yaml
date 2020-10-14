@@ -1,0 +1,28 @@
+_repo: Az-erkolcsi-torveny-alkalmazasa_63291
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bodnár, Zsigmond
+    aliases:
+    - Bodnar, Zsigmond
+    - Bodnár, Sigmund
+    birthdate: 1839
+    deathdate: 1907
+    gutenberg_agent_id: '52330'
+    url: http://www.gutenberg.org/2009/agents/52330
+    wikipedia: https://hu.wikipedia.org/wiki/Bodn%C3%A1r_Zsigmond
+description: ''
+gutenberg_issued: '2020-09-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63291'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ethics'
+- !lcc 'BJ'
+- GITenberg
+title: Az erkölcsi törvény alkalmazása
+url: http://www.gutenberg.org/ebooks/63291
